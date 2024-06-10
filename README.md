@@ -7,10 +7,10 @@ Application contains:
 - Usermanagement.API.sln <br>
 
 **Application Starting Procedure**<br>
--    1. You need to add your connectionstring on appsetting.json file.
--    2. You need to add Email configuration on appsetting.json file.
--    3. Update the database from package manager console command **Update-Database**
--    4. Register the Admin and try to login with 2FA authentication.
+- You need to add your connectionstring on appsetting.json file.
+- You need to add Email configuration on appsetting.json file.
+- Update the database from package manager console command **Update-Database**
+- Register the Admin and try to login with 2FA authentication.
  
 
 If u liked my Application and the code was useful to you, <br>
